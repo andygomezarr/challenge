@@ -1,0 +1,12 @@
+# ignoramos todo
+*
+# ahora declaramos la whitelist (excepciones)
+!*/
+
+!/README.md
+!/.idea/**
+!/.mvn/**
+!/src/**
+!/target/**
+!/.gitignore
+!/*
