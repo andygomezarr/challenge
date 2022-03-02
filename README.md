@@ -1,4 +1,5 @@
 # Indicaciones
+***TODAS LAS FUNCIONES FUERON TESTEADAS CORRECTAMENTE CON POSTMAN***
 ## Autorización
 El token para el usario dado (challenge) con brypt es:
 <br />
